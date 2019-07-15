@@ -11,4 +11,7 @@
 |
 */
 
-Route::get('/admin/panel','Admin/PanelController@index');
+Route::group(['namespace' => 'Admin'], function () {
+    Route::get('/', 'PanelController@index');
+});
+
