@@ -63,15 +63,15 @@
         <ul class="navigation navigation-main" id="main-menu-navigation" data-menu="menu-navigation">
             <li class="active"><a href="/admin/panel"><i class="ft-home"></i><span class="menu-title" data-i18n="">پنل اصلی</span></a>
             </li>
-            <li class=" nav-item"><a href="/admin/articles"><i class="ft-pie-chart"></i><span class="menu-title" data-i18n="">مقاله ها</span></a>
+            <li class=" nav-item"><a href="/admin/articles"><i class="ft-pie-chart"></i><span class="menu-title" data-i18n="">مقاله ها</span> </a>
             </li>
             <li class=" nav-item"><a href="/admin/courses"><i class="ft-droplet"></i><span class="menu-title" data-i18n="">دوره ها</span></a>
             </li>
-            <li class=" nav-item"><a href="/admin/"><i class="ft-layers"></i><span class="menu-title" data-i18n="">کاربران</span></a>
+            <li class=" nav-item"><a href="/admin/"><i class="ft-layers"></i><span class="menu-title" data-i18n="">کاربران</span><span class="badge">0</span></a>
             </li>
-            <li class=" nav-item"><a href="buttons.html"><i class="ft-box"></i><span class="menu-title" data-i18n="">پرداختی های موفق</span></a>
+            <li class=" nav-item"><a href="buttons.html"><i class="ft-box"></i><span class="menu-title" data-i18n="">پرداختی های موفق<span class="badge">0</span></span></a>
             </li>
-            <li class=" nav-item"><a href="typography.html"><i class="ft-bold"></i><span class="menu-title" data-i18n="">پرداختی های ناموفق</span></a>
+            <li class=" nav-item"><a href="typography.html"><i class="ft-bold"></i><span class="menu-title" data-i18n="">پرداختی های ناموفق</span><span class="badge">0</span></a>
             </li>
             <li class=" nav-item"><a href="tables.html"><i class="ft-credit-card"></i><span class="menu-title" data-i18n="">همه نظرات</span></a>
             </li>

@@ -34192,6 +34192,7 @@ footer.footer-dark
     top: 0;
 
     height: 100%;
+    right:0;
 }
 .main-menu.menu-fixed .main-menu-footer
 {
@@ -37456,7 +37457,7 @@ body.vertical-layout.vertical-menu.menu-expanded .navbar.navbar-brand-center .na
 
 body.vertical-layout.vertical-menu.menu-expanded .navbar .navbar-container
 {
-    margin-left: 260px;
+    margin-right: 260px;
 }
 
 body.vertical-layout.vertical-menu.menu-expanded .navbar .navbar-brand .brand-text
@@ -37574,7 +37575,7 @@ body.vertical-layout.vertical-menu.menu-expanded .main-menu.menu-dark .navigatio
 body.vertical-layout.vertical-menu.menu-expanded .content,
 body.vertical-layout.vertical-menu.menu-expanded .footer
 {
-    margin-left: 260px;
+    margin-right: 260px;
 }
 
 body.vertical-layout.vertical-menu.menu-expanded .navbar-brand-center .content,
